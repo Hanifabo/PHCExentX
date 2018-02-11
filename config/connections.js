@@ -21,7 +21,7 @@
 
 module.exports.connections = {
 
-  /***************************************************************************
+  /*****************************************************************
   *                                                                          *
   * Local disk storage for DEVELOPMENT ONLY                                  *
   *                                                                          *
@@ -78,7 +78,7 @@ module.exports.connections = {
   //   user: 'YOUR_POSTGRES_USER', // optional
   //   password: 'YOUR_POSTGRES_PASSWORD', // optional
   //   database: 'YOUR_POSTGRES_DB' //optional
-  // }
+  // }  
 
 
   /***************************************************************************
